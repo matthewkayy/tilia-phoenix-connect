@@ -44,7 +44,7 @@ var ExportActions = [
 		"method" : "/export/jdf-cutting",
 		"postfix" : null,
 		"extension" : "jdf",
-		"preset" : "ExportCuttingJdfPreset"
+		"preset" : "CuttingJdfPreset"
 	},
 	{
 		"name" : "Export PDF",
